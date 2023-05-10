@@ -13,6 +13,12 @@ Performance of YOLOV7 model:
 Precision and Recall values of YOLOv5 and YOLOv7 models:
 ![6](https://github.com/Sowgandh6/Object-Detection/assets/74649012/a17cd5fd-7c37-49ac-a64b-8502a098a705)
 
+Detection of threat objects using YOLOv5:
+![1](https://github.com/Sowgandh6/Object-Detection/assets/74649012/727c8697-f513-4123-b26e-c37f7861f325)
+
+Detection of threat objects using YOLOv7:
+![1](https://github.com/Sowgandh6/Object-Detection/assets/74649012/c091bb2e-c927-4de3-ac06-6ef498539e13)
+
 ## Acknowledgments
 
 Some parts of this project uses the YOLOv5 and YOLOv7 original implementation by Ultralytics LLC. We would like to thank the authors for their contributions to the computer vision community.
