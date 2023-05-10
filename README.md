@@ -14,4 +14,4 @@ Precision and Recall values of YOLOv5 and YOLOv7 models:
 
 ## Acknowledgments
 
-This project uses the YOLOv5 and YOLOv7 original implementation by Ultralytics LLC. We would like to thank the authors for their contributions to the computer vision community.
+Some parts of this project uses the YOLOv5 and YOLOv7 original implementation by Ultralytics LLC. We would like to thank the authors for their contributions to the computer vision community.
