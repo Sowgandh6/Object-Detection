@@ -19,6 +19,9 @@ Detection of threat objects using YOLOv5:
 Detection of threat objects using YOLOv7:
 ![1](https://github.com/Sowgandh6/Object-Detection/assets/74649012/c091bb2e-c927-4de3-ac06-6ef498539e13)
 
+mAP values for Faster_RCNN, YOLOv5 & YOLOv7:
+![download](https://github.com/Sowgandh6/Object-Detection/assets/74649012/f414a566-aa0a-4a03-bb84-cfa2dc3077e0)
+
 ## Acknowledgments
 
 Some parts of this project uses the YOLOv5 and YOLOv7 original implementation by Ultralytics LLC. We would like to thank the authors for their contributions to the computer vision community.
