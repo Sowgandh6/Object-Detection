@@ -11,3 +11,7 @@ Performance of YOLOV7 model:
 
 Precision and Recall values of YOLOv5 and YOLOv7 models:
 ![6](https://github.com/Sowgandh6/Object-Detection/assets/74649012/a17cd5fd-7c37-49ac-a64b-8502a098a705)
+
+## Acknowledgments
+
+This project uses the YOLOv5 and YOLOv7 original implementation by Ultralytics LLC. We would like to thank the authors for their contributions to the computer vision community.
